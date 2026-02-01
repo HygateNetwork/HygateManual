@@ -18,6 +18,6 @@ Pretty self explaining.
   it might mess up the translations for everything,
   until you restart the game. This is normal.
 * For more details about portal item files,
-  see [Howto_AssetsCustomPortals.md](Howto_AssetsCustomPortals.md)
+  see [Howto_CustomPortals.md](Howto_CustomPortals.md)
 
 ~EOF
