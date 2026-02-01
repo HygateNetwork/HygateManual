@@ -1,16 +1,16 @@
-# Hygate Manual Plugin
-Simple, non-code mod to define custom portals by hand.
+# Hygate Manual (AssetPack)
+Simple, non-code asset pack to define custom portals by hand.
 Pretty self explaining.
 
 ## Install
-* Place this mod folder (`HygateManual`) into the mods location of your game.
-* The location where to put the mod depends on your Operating System and
+* Place the asset pack folder `HygateManual` from `mods/` into the mods location of your game.
+* The location where to put the asset pack depends on your Operating System and
   Game type being used (Singleplayer/Dedicated Server).
 
 ## Usage
-* Inside `Server/Item/Items/Portal` you will see some example portals.
+* Inside `HygateManual/Server/Item/Items/Portal` you will see some example portals.
   Just copy them, rename them and alter its contents.
-* In `Server/Languages/en-US/hygate_manual.lang` you can configure the translations
+* In `HygateManual/Server/Languages/en-US/hygate_manual.lang` you can configure the translations
   for the portals (name and description).
 * You can even edit them while the game/server is running,
   the game detects the changes and automatically updates them.
